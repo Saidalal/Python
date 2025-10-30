@@ -56,3 +56,9 @@ The dataset contains customer-level information including:
 ### 📈 Contract Strategy  
 - Incentivize **long-term contracts** with perks (e.g., free streaming, device protection)  
 - Use **predictive models** to flag **at-risk users** for proactive outreach  
+
+### 👩‍💻 Connect with Me
+
+-**LinkedIn-** www.linkedin.com/in/sai-subhashree-14681520b
+
+-**EmailID-** saidalal02@gmail.com
